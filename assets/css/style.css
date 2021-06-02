@@ -583,7 +583,7 @@ section {
 }
 
 .about .image {
-  background: url("../images/profile1.jpeg") center center no-repeat;
+  background: url("../images/pro.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
